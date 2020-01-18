@@ -1,2 +1,2 @@
-# blog-work
-Repo used to save work done for blog posts
+# Work done for blog
+Repo where I will save stuff done for blog posts
